@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-While working on this project, I practiced using Flexbox to center content both vertically and horizontally, used CSS variables for color management, and integrated Google Fonts into the project. I also paid attention to using border-radius, aspect-ratio for images, and organizing HTML/CSS structure clearly and maintainably.
+While working on this project, I practiced using Flexbox to center content both vertically and horizontally, used CSS variables for color management, and integrated Google Fonts into the project. I also paid attention to using border-radius, aspect-ratio for images, and organizing HTML/CSS structure clearly and maintainable.
 
 Here is a code snippet I am proud of:
 
