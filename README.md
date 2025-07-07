@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/DanKRT-Star/QR-code-component-main
-- Live Site URL: https://qr-code-component-main-one-liard.vercel.app/
+- Live Site URL: [QR code page](https://qr-code-component-main-one-liard.vercel.app/)
 
 ## My process
 
@@ -74,8 +74,10 @@ I want to continue practicing responsive design, experiment more with CSS Grid a
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
+- Frontend Mentor - [@DanKRT-Star]https://www.frontendmentor.io/profile/DanKRT-Star
+- Facebook - [Lê Mạnh Đan](https://www.facebook.com/le.manh.an.887330)
+- Gmail - [Lê Mạnh Đan] (tonyle1207@gmail.com)
+- Github - [Lê Mạnh Đan] (https://github.com/DanKRT-Star)
 
 ## Acknowledgments
 
