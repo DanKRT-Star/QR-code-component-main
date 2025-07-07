@@ -11,8 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: <!-- Add your solution URL here -->
-- Live Site URL: <!-- Add your live site URL here -->
+- Solution URL: https://github.com/DanKRT-Star/QR-code-component-main
+- Live Site URL: https://qr-code-component-main-one-liard.vercel.app/
 
 ## My process
 
